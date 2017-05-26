@@ -1,10 +1,4 @@
-/* Custom Badges */
-#chat-messages .badge-box {background: none}
-
-/* Domadness */
-.id-4701536 > .badge-box > i.bdg
-{
-    background-image:    url("https://nightbloo.github.io/plug/custom-badges/Dom.png");
-    background-size:     cover;
-    background-repeat:   no-repeat;
-    background-position: center center;
+/* STYLE Clannad - BADGE */
+#chat-messages > div.cm.message[data-cid^="4701536"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4701536"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="4701536"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4701536"] > .badge-box  > .bdg{
+	background-image: url("https://dl.dropboxusercontent.com/s/yqwlf19uxpadqp8/clannad.png") !important;
+}
