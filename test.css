@@ -1,9 +1,6 @@
-/* Leaf */
-#user-rollover.id-4701536 .badge-box > i.bdg
+/* Kirby */
+#chat-messages .id-4701536 .badge-box i.bdg
 {
-    border-radius:       6px;
-    background-image:    url("https://nightbloo.github.io/plug/custom-badges/leaf.gif");
-    background-size:     cover;
-    background-repeat:   no-repeat;
-    background-position: center center;
+        background-image:       url('https://i.imgur.com/uxyQ4Wz.png');
+        background-size:        cover;
 }
