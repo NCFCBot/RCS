@@ -1,4 +1,0 @@
-/* STYLE Clannad - BADGE */
-#chat-messages > div.cm.message[data-cid^="4701536"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4701536"] > .badge-box  > .bdg, #chat-messages > div.cm.mention[data-cid^="4701536"] > .badge-box  > .bdg, #chat-messages > div.cm.emote[data-cid^="4701536"] > .badge-box  > .bdg{
-	background-image: url("https://dl.dropboxusercontent.com/s/yqwlf19uxpadqp8/clannad.png") !important;
-}
