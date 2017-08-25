@@ -10,7 +10,7 @@
     "allowAutograb":    true,
     "allowSmartVote":   true,
     "allowEmotes":      true,
-    "allowShowingMehs": false,
+    "allowShowingMehs": true,
     "forceSmartVote":   false
   },
   "ccc": {
@@ -27,7 +27,7 @@
     "user":             null
   },
   "images": {
-    "background":       "https://raw.githubusercontent.com/Plug-It/pi/pre-release/img/background/non-official/Plug-It-old.jpg",
+    "background":       "https://raw.githubusercontent.com/Plug-It/pi/master/images/background/12.png",
     "playback":         null,
     "admin":            null,
     "ambassador":       "http://i.imgur.com/IO84f0g.png",
