@@ -1,42 +1,42 @@
 {
-  "room":   "Nightcore Fanclub",
+  "room": "Nightcore Fanclub",
   "author": "WiBla",
-  "icon":   "http://i.imgur.com/pOEtINd.png",
-  "css":    "https://rawgit.com/NCFCBot/pi/master/ressources/blue.css",
+  "icon": "http://i.imgur.com/rdBsAX6.png",
+  "css": "https://rawgit.com/NCFCBot/pi/master/ressources/blue.css",
   "rules": {
     "allowAutorespond": true,
-    "allowAutowoot":    true,
-    "allowAutojoin":    true,
-    "allowAutograb":    true,
-    "allowSmartVote":   true,
-    "allowEmotes":      true,
+    "allowAutowoot": true,
+    "allowAutojoin": true,
+    "allowAutograb": true,
+    "allowSmartVote": true,
+    "allowEmotes": true,
     "allowShowingMehs": true,
-    "forceSmartVote":   false
+    "forceSmartVote": false
   },
   "ccc": {
-    "admin":            "#42a5dc",
-    "ambassador":       "#89be6c",
-    "host":             "#db182e",
-    "cohost":           "#db182e",
-    "manager":          "#AB48C6",
-    "bouncer":          "#5DB4FF",
-    "rdj":              "#F7A452",
-    "subscriber":       "#c59840",
+    "admin": "#42a5dc",
+    "ambassador": "#89be6c",
+    "host": "#db182e",
+    "cohost": "#db182e",
+    "manager": "#AB48C6",
+    "bouncer": "#5DB4FF",
+    "rdj": "#F7A452",
+    "subscriber": "#c59840",
     "silversubscriber": null,
-    "friend":           null,
-    "user":             null
+    "friend": null,
+    "user": null
   },
   "images": {
-    "background":       "http://i.imgur.com/tqefM7A.jpg",
-    "playback":         null,
-    "admin":            null,
-    "ambassador":       "http://i.imgur.com/IO84f0g.png",
-    "host":             "http://i.imgur.com/zIAEqAk.png",
-    "cohost":           "http://i.imgur.com/zIAEqAk.png",
-    "manager":          "http://i.imgur.com/snaSrTN.png",
-    "bouncer":          "http://i.imgur.com/X4rU7r5.png",
-    "rdj":              "http://i.imgur.com/HIUTGdj.png",
-    "subscriber":       "http://i.imgur.com/MqlDbT7.png",
+    "background": "http://i.imgur.com/tqefM7A.jpg",
+    "playback": null,
+    "admin": null,
+    "ambassador": "http://i.imgur.com/IO84f0g.png",
+    "host": "http://i.imgur.com/zIAEqAk.png",
+    "cohost": "http://i.imgur.com/zIAEqAk.png",
+    "manager": "http://i.imgur.com/snaSrTN.png",
+    "bouncer": "http://i.imgur.com/X4rU7r5.png",
+    "rdj": "http://i.imgur.com/HIUTGdj.png",
+    "subscriber": "http://i.imgur.com/MqlDbT7.png",
     "silversubscriber": null
   },
   "emotes": {
@@ -63,10 +63,6 @@
     "yay": "http://i.imgur.com/1WEezyV.gif",
     "yaay": "http://i.imgur.com/rWZTAd2.gif",
     "": "",
-    "": "",
-    "": "",
-    
-    /* Gifs ----------------------------------- */
     "djumbreon": "http://i.imgur.com/B9fQcaM.gif",
     "djflareon": "http://i.imgur.com/1Z1kqkk.gif",
     "djespeon": "http://i.imgur.com/iUo1X11.gif",
@@ -80,12 +76,6 @@
     "remram": "http://i.imgur.com/fcpxU8B.gif",
     "hotpotato": "http://i.imgur.com/gFI7DVG.gif",
     "stahp": "http://i.imgur.com/jDTPput.gif",
-    "": "",
-    "": "",
-    "": "",
-    
-    
-    /* Bot ------------------------------------ */
     "cute2": "http://i.imgur.com/uHITbiB.gif",
     "dance": "http://i.imgur.com/B03QOLy.gif",
     "banhammer1": "http://i.imgur.com/O3DHIA5.gif",
@@ -221,7 +211,6 @@
     "afkeat": "http://i.imgur.com/gjNhe66.jpg",
     "kanna": "http://i.imgur.com/nADEpYD.gif",
     "no_awoo": "http://i.imgur.com/A6d55dW.png",
-    "hyped": "http://i.imgur.com/ww8PooI.gif",
-    "": ""
+    "hyped": "http://i.imgur.com/ww8PooI.gif"
   }
-} 
+}
