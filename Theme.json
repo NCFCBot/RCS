@@ -1,7 +1,7 @@
 {
   "room":   "Nightcore Fanclub",
   "author": "WiBla",
-  "icon":   null,
+  "icon":   "http://i.imgur.com/zRIUVUO.png",
   "css":    "https://rawgit.com/NCFCBot/pi/master/ressources/blue.css",
   "rules": {
     "allowAutorespond": true,
